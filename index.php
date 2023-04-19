@@ -1,3 +1,3 @@
 <?php
-header("Location: formulario.php");
+header("Location: listarCursor.php");
 ?>
