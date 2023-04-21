@@ -14,7 +14,7 @@ $mascotas = $sentencia->fetchAll(PDO::FETCH_OBJ);
 
 	<div class="col-12">
 		<h1>Listar con arreglo</h1>
-		<h2>Por Andres Cotrina</h2>
+		<p class="text-primary">Por Andres Cotrina</p>
 		<br>
 		<div class="table-responsive">
 			<table class="table table-bordered">

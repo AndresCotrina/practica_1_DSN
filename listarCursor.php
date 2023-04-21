@@ -22,7 +22,7 @@ $sentencia->execute();
 
 	<div class="col-12">
 		<h1>Listar con cursor</h1>
-		<a href="https://tecsup.instructure.com/courses/25788" target="_blank">Por Walter Moncada</a>
+		<p class="text-primary">Por Andres Cotrina</p>
 		<br>
 		<table class="table table-bordered">
 			<thead class="thead-dark">

@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Conexión de PHP con PostgreSQL usando PDO">
     <meta name="author" content="Odenfis">
+    <link rel="icon" type="image/x-icon" href="/img/foto-portafolio.jpg">
     <title>PostgreSQL-PHP | Por Andres Cotrina</title>
     <!-- Cargar el CSS de Boostrap-->
     <link href="./bootstrap.min.css" rel="stylesheet">
