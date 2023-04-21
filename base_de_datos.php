@@ -3,7 +3,7 @@
 $contraseña = "u05QR0zv9cxDJdfCn5ug";
 $usuario = "postgres";
 $nombreBaseDeDatos = "railway";
-$rutaServidor = "postgresql://postgres:u05QR0zv9cxDJdfCn5ug@containers-us-west-7.railway.app:6399/railway";
+$rutaServidor = "containers-us-west-7.railway.app";
 $puerto = "6399";
 
 try{
