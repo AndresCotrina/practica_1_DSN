@@ -17,7 +17,7 @@
 <body>
     <!-- Definición del menú -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
-        <img src="/img/foto-portafolio.jpg" alt="imagen" style="height: 50px;" class="rounded-circle mr-3">
+        <img src="/img/gato-lentes.png" alt="imagen" style="height: 50px;" class="rounded-circle mr-3">
         PostgreSQL-PHP | Por Andres Cotrina
         </a>
         <div class="collapse navbar-collapse" id="miNavbar">
